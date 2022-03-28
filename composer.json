@@ -1,0 +1,16 @@
+{
+    "name": "jose/namespace",
+    "description": "Sobre Namespaces, Audis e Porsches",
+    "autoload": {
+        "psr-4": {
+            "jose\\sobre\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "José Arnaldo",
+            "email": "josearnaldo.net@gmail.com"
+        }
+    ],
+    "require": {}
+}
