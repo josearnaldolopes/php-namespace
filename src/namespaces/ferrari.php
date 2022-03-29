@@ -1,5 +1,5 @@
 <?php
-namespace jose\sobre\namespace;
+namespace jose\sobre\namespaces;
 class ferrari 
 {
     public function california()

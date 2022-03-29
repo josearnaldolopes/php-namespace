@@ -1,4 +1,8 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 require "vendor/autoload.php";
 
 use jose\sobre\aboutNamespace;
@@ -18,12 +22,12 @@ $audi = new rs2;
 echo $audi->launch() . PHP_EOL;
 echo $audi->wheels() . PHP_EOL;
 
-use jose\sobre\namespace\name, jose\sobre\namespace\local, jose\sobre\namespace\fundos as fundo;
-use jose\sobre\namespace\porsche, jose\sobre\namespace\ferrari, jose\sobre\namespace\volkswagen;
-use jose\sobre\namespace\endereco, jose\sobre\namespace\evenodd, jose\sobre\namespace\iseven;
-use jose\sobre\namespace\modifiers, jose\sobre\namespace\inherit, jose\sobre\namespace\car;
-use jose\sobre\namespace\constant, jose\sobre\namespace\implementClass, jose\sobre\namespace\staticMethods;
-use jose\sobre\namespace\staticProperties, jose\sobre\namespace\xmlFile;
+use jose\sobre\namespaces\name, jose\sobre\namespaces\local, jose\sobre\namespaces\fundos as fundo;
+use jose\sobre\namespaces\porsche, jose\sobre\namespaces\ferrari, jose\sobre\namespaces\volkswagen;
+use jose\sobre\namespaces\endereco, jose\sobre\namespaces\evenodd, jose\sobre\namespaces\iseven;
+use jose\sobre\namespaces\modifiers, jose\sobre\namespaces\inherit, jose\sobre\namespaces\car;
+use jose\sobre\namespaces\constant, jose\sobre\namespaces\implementClass, jose\sobre\namespaces\staticMethods;
+use jose\sobre\namespaces\staticProperties, jose\sobre\namespaces\xmlFile;
 
 // Instancia de name
 $espaco = new name;

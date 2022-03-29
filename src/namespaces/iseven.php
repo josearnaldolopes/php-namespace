@@ -1,5 +1,5 @@
 <?php
-namespace jose\sobre\namespace;
+namespace jose\sobre\namespaces;
 class iseven
 {
     public function iseven(int $value)

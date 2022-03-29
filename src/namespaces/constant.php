@@ -1,5 +1,5 @@
 <?php
-namespace jose\sobre\namespace;
+namespace jose\sobre\namespaces;
 class constant
 {
     const MENSAGEM = "Olá, bom dia";

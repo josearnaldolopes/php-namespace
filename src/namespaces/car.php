@@ -1,5 +1,5 @@
 <?php
-namespace jose\sobre\namespace;
+namespace jose\sobre\namespaces;
 class car extends abstrato
 {
     public function intro() : string

@@ -1,5 +1,5 @@
 <?php
-namespace jose\sobre\namespace;
+namespace jose\sobre\namespaces;
 class staticMethods {
     public static function welcome() {
       echo "Método Estático";
