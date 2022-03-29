@@ -1,10 +1,11 @@
 <?php
-namespace jose\sobre\namespaces;
+namespace Jose\Sobre\Namespaces;
+
 class ferrari 
 {
     public function california()
     {
-        return "Ferrys Builer Day Off";
+        return "Ferrari do filme 'Ferrys Builer Day Off' de 1986";
     }
     public function cor($cor)
     {

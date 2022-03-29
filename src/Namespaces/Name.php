@@ -1,6 +1,7 @@
 <?php
-namespace jose\sobre\namespaces;
-class name 
+namespace Jose\Sobre\Namespaces;
+
+class Name 
 {
  	public function space()
 	{

@@ -1,6 +1,7 @@
 <?php
-namespace jose\sobre\namespaces;
-class car extends abstrato
+namespace Jose\Sobre\Namespaces;
+
+class Car extends Abstrato
 {
     public function intro() : string
     {

@@ -1,6 +1,8 @@
 <?php
-namespace jose\sobre\audi;
-class rs2
+
+namespace Jose\Sobre\Audi;
+
+class Rs2
 {
  	public function launch()
 	{

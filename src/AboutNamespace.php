@@ -1,6 +1,8 @@
 <?php
-namespace jose\sobre;
-class aboutNamespace 
+
+namespace Jose\Sobre;
+
+class AboutNamespace 
 {
  	public function namespace()
 	{

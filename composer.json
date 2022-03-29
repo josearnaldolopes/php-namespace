@@ -3,7 +3,7 @@
     "description": "Sobre Namespaces, Audis e Porsches",
     "autoload": {
         "psr-4": {
-            "jose\\sobre\\": "src/"
+            "Jose\\Sobre\\": "src/"
         }
     },
     "authors": [

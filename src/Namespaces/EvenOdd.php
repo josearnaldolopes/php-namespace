@@ -1,6 +1,7 @@
 <?php
-namespace jose\sobre\namespaces;
-class evenodd
+namespace Jose\Sobre\Namespaces;
+
+class EvenOdd
 {
     protected $initial;
     protected $final;

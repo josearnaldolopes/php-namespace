@@ -1,6 +1,8 @@
 <?php
-namespace jose\sobre\porsche;
-class nineeleven 
+
+namespace Jose\Sobre\Porsche;
+
+class NineEleven 
 {
  	public function launch()
 	{

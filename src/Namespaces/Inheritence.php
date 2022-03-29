@@ -1,6 +1,7 @@
 <?php
-namespace jose\sobre\namespaces;
-class inheritence
+namespace Jose\Sobre\Namespaces;
+
+class Inheritence
 {
     public function kid()
     {

@@ -1,11 +1,12 @@
 <?php
-namespace jose\sobre\namespaces;
-class modifiers
+namespace Jose\Sobre\Namespaces;
+
+class Modifiers
 {
     protected $protegido;
     protected function modifiers($valor)
     {
-        return 'De um protegido: '.$this->protegido = $valor;
+        return 'Um protegido: '.$this->protegido = $valor;
     }
     public function getModifiers($valor)
     {
